@@ -6,5 +6,11 @@ From now on, I will participate in various competitions and try to get good grad
 You will be able to see the contests I participated in through the file.
 
 
-------------------------------------LIST------------------------------------------
+List👇
+
+| Competition name 	| Description                                                            	| Role         	| Result 	|
+|------------------	|------------------------------------------------------------------------	|--------------	|--------	|
+| Kakao Tourism    	| Predicting the number of visitors and recommending tourist attractions 	| AI Developer 	|        	|
+|                  	|                                                                        	|              	|        	|
+|                  	|                                                                        	|              	|        	|
 
