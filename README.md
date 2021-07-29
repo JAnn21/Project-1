@@ -8,9 +8,8 @@ From now on, I will participate in various competitions and try to get good grad
 ## List📝   
 
 
-| Competition name 	| Description                                                            	| Role         	| Result 	|
-|------------------	|------------------------------------------------------------------------	|--------------	|--------	|
-| Kakao Tourism    	| Predicting the number of visitors and recommending tourist attractions 	| AI Developer 	|        	|
-|                  	|                                                                        	|              	|        	|
-|                  	|                                                                        	|              	|        	|
-
+| Competition name 	|                                      Description                                      	| Result 	|
+|:----------------:	|:-------------------------------------------------------------------------------------:	|--------	|
+|   Kakao Tourism  	| Predicting the number of visitors and recommending tourist attractions                	|        	|
+|     BIG CONTEST  	| Deriving the optimal price prediction model by predicting the import price of seafood 	|        	|
+|                  	|                                                                                       	|        	|
