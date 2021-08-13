@@ -5,8 +5,8 @@ From now on, I will participate in various competitions and try to get good grad
 
 ## Project List📝
 
-|      Project      |                                      Description                                      	| Result 	|
-|:----------------:	|:-------------------------------------------------------------------------------------:	|--------	|
-|   Kakao Tourism  	| Predicting the number of visitors and recommending tourist attractions                	|        	|
-|  2021 BigContest Championship League  Deriving the optimal price prediction model by predicting the import price of seafood 	|        	|
-|                  	|                                                                                       	|        	|
+|                    	|                                      Description                                      	| Result 	|
+|:------------------:	|:-------------------------------------------------------------------------------------:	|--------	|
+|    Kakao Tourism   	| Predicting the number of visitors and recommending tourist attractions                	|        	|
+|   2021 BIG CONTEST 	| Deriving the optimal price prediction model by predicting the import price of seafood 	|        	|
+|                    	|                                                                                       	|        	|
