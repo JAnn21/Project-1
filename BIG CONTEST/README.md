@@ -6,7 +6,7 @@
 - 
 ####  📌Purpose
 ---
-- 
+- Deriving the optimal price prediction model by predicting the import price of seafood
 
 #### 🔎About
 ---
