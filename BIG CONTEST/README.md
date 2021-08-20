@@ -6,7 +6,7 @@ Data analysis & Predictive model development
 - [BIG CONTEST SITE](https://www.bigcontest.or.kr/)
 - 
 - 
-####  📌Purpose
+#### 📌Purpose
 
 - Deriving the optimal price prediction model by predicting the import price of seafood
 
