@@ -3,9 +3,7 @@
 #### 🔑Role
 Data analysis & Predictive model development
 #### 🖇Link
-- [BIG CONTEST SITE](https://www.bigcontest.or.kr/)
-- 
-- 
+- [BIG CONTEST SITE](https://www.bigcontest.or.kr/)  
 #### 📌Purpose  
 - Deriving the optimal price prediction model by predicting the import price of seafood
 #### 📚Data   
