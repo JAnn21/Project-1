@@ -1,5 +1,8 @@
 ### YOLO  
-[(Korean Version)](https://www.notion.so/2021-X-Kako-bc3cdee273ee4e7ea818b4ecce7d27b9)    
+[(Korean Version)](https://www.notion.so/2021-X-Kako-bc3cdee273ee4e7ea818b4ecce7d27b9)  
+#### 🔑Role
+---
+Predictive model development
 #### 🖇Link
 ---
 - [Korea Tourism Organization](https://www.2021tourapi.com/)
