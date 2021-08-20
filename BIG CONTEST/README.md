@@ -19,4 +19,7 @@ Data analysis & Predictive model development
 
 
 #### 🛠Skills
+- Python
+- numpy
+- pandas
 
