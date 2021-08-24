@@ -1,4 +1,4 @@
-#### Project List 📝
+#### Project List 📝([Korean Version)](https://viridian-monarch-554.notion.site/Project-List-2fb5f156c064465f9dcd66d49e4188ee)
 |                                                                                 	|                                      Description                                      	| Result 	|
 |:-------------------------------------------------------------------------------:	|:-------------------------------------------------------------------------------------:	|--------	|
 | [Kakao Tourism](https://github.com/loveacaji/Project/tree/main/Kakao%20Tourism) 	| Predicting the number of visitors and recommending tourist attractions                	|        	|
