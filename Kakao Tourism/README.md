@@ -24,12 +24,13 @@ Predictive model development
 - [Congestion forecasting aggregate data information for each tourist destination](https://www.data.go.kr/iim/api/selectAPIAcountView.do)
 - [Information on aggregated data on the number of local visitors to the basic local government](https://www.data.go.kr/iim/api/selectAPIAcountView.do)
 - [Event information](https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15057787)
+- [Public Data Utilization Support Center_Ministry of Health and Welfare Corona 19 outbreaks in cities and provinces](https://www.data.go.kr/iim/api/selectAPIAcountView.do)
 
 
 #### 🛠Skills
 ---
 - Python
-- Pytorch
+- Tensorflow
 
 
 
