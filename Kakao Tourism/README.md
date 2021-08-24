@@ -1,5 +1,5 @@
 ### YOLO  
-[(Korean Version)](https://www.notion.so/2021-X-Kako-bc3cdee273ee4e7ea818b4ecce7d27b9)  
+[(Korean Version)](https://viridian-monarch-554.notion.site/YOLO-9f7e70f12b45498ca4fac20102c2c100)  
 #### 🔑Role
 ---
 Predictive model development
