@@ -1,7 +1,21 @@
 ### YOLO  
 [(Korean Version)](https://viridian-monarch-554.notion.site/YOLO-9f7e70f12b45498ca4fac20102c2c100)  
-#### 🔑Role
----
+#### 👤Member 
+---  
+- Hye-joo Kim (UI designer)
+- Soo-bin Jang (UI designer)
+- Hee-min Kim () 
+- Jaewoo Choi (AI developer)
+- Ji-hoon Jeon (Front-End, Android app)
+- Hwan-woong Yoo (Front-End, Android app)
+- Yoon-seok Jang (Front-End, IOS app)
+- Min-chae Kwon (Back-End)
+
+
+
+
+
+
 Predictive model development
 #### 🖇Link
 ---
