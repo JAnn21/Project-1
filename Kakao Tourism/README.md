@@ -11,12 +11,6 @@
 - Yoon-seok Jang (Front-End, IOS app)
 - Min-chae Kwon (Back-End)
 
-
-
-
-
-
-Predictive model development
 #### 🖇Link
 ---
 - [Korea Tourism Organization](https://www.2021tourapi.com/)
