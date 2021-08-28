@@ -1,7 +1,7 @@
 ### 2021 BIG CONTEST
 [(Korean Version)](https://viridian-monarch-554.notion.site/Big-Contest-2021-b8d1f536064e429dada75e57ea09b569)  
 #### 👤Members  
-- Jaewoo Choi
+- Jaewoo Choi (Team Leader)
 - Min-seo Park
 - Ji-yeon Seo
 - Lee Hyun Park  
