@@ -2,7 +2,8 @@
 
 |               |                                      Description                                      | Result |
 |---------------|:-------------------------------------------------------------------------------------:|--------|
-| SNUH   |The goal is to find the enteric nerve ganglia.                            |        |
+| ADAI2021      |AI Algorithm Development Challenge                                                     |        |
+| SNUH   |The goal is to find the enteric nerve ganglia.                                                |        |
 | DACON         | 2021 Traffic Signal Motion Recognition AI Contest                                     |        |
 | DACON         | Agricultural product price prediction                                                 |        |
 | Big Contest   | Deriving the optimal price prediction model by predicting the import price of seafood |        |
