@@ -2,7 +2,7 @@
 
 |               |                                      Description                                      | Result |
 |---------------|:-------------------------------------------------------------------------------------:|--------|
-| SNUH(https://maic.or.kr/competitions/8/infomation)         |The goal is to find the enteric nerve ganglia.                            |        |
+| SNUH   |The goal is to find the enteric nerve ganglia.                            |        |
 | DACON         | 2021 Traffic Signal Motion Recognition AI Contest                                     |        |
 | DACON         | Agricultural product price prediction                                                 |        |
 | Big Contest   | Deriving the optimal price prediction model by predicting the import price of seafood |        |
