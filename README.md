@@ -2,8 +2,8 @@
 
 |               |                                      Description                                      | Result |
 |---------------|:-------------------------------------------------------------------------------------:|--------|
-| ADAI2021      |AI Algorithm Development Challenge                                                     |        |
-| SNUH   |The goal is to find the enteric nerve ganglia.                                                |        |
+| SEOUL BIG DATA CAMPUS      |Development of an ai system that can find out where welfare facilities are lacking in an aging society and judge the death of the elderly or abuse of the elderly.                                                     |        |
+| COMPAS   |Searching for public security problems in Suwon and seeking solutions.                                                |        |
 | DACON         | 2021 Traffic Signal Motion Recognition AI Contest                                     |  4%(9/260)   |
 | DACON         | Agricultural product price prediction                                                 | Public:23/1,117       |
 | Big Contest   | Deriving the optimal price prediction model by predicting the import price of seafood |        |
