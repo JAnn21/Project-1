@@ -1,4 +1,4 @@
-#### Competiton and Project List 📝([Korean Version)](https://viridian-monarch-554.notion.site/Project-List-2fb5f156c064465f9dcd66d49e4188ee)
+#### Competition and Project List 📝([Korean Version)](https://viridian-monarch-554.notion.site/Project-List-2fb5f156c064465f9dcd66d49e4188ee)
 
 |               |                                      Description                                      | Result |
 |---------------|:-------------------------------------------------------------------------------------:|--------|
