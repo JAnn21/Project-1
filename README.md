@@ -4,7 +4,7 @@
 |---------------|:-------------------------------------------------------------------------------------:|--------|
 | DACON         |                                     |  |
 | Medical image Ai Challenge 2021 |  |        |
-| DACON | Classification of crop diseases |        |
+| DACON | Classification of crop diseases |    10%    |
 | SEOUL BIG DATA CAMPUS      |Development of an ai system that can find out where welfare facilities are lacking in an aging society and judge the death of the elderly or abuse of the elderly.                                                     |        |
 | COMPAS   |Searching for public security problems in Suwon and seeking solutions.                                                |        |
 | DACON         | 2021 Traffic Signal Motion Recognition AI Contest                                     |  4%|
