@@ -1,6 +1,8 @@
 #### Competition and Project List 📝([Korean Version)](https://viridian-monarch-554.notion.site/Project-List-2fb5f156c064465f9dcd66d49e4188ee)
 
 |               |                                      Description                                      | Result |
+| A.I.D.D2021   | Diabetes Prediction                                    |  |
+| A.I.D.D2021   | Diabetes Prediction                                    |  |
 |---------------|:-------------------------------------------------------------------------------------:|--------|
 | ADAI 2021   | Development of object recognition algorithm to prevent possible risks and accidents during autonomous driving.                                    |  |
 | A.I.D.D2021   | Diabetes Prediction                                    |  |
