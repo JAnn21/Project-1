@@ -10,4 +10,4 @@
 | Dacon         | 2021 Traffic Signal Motion Recognition AI Contest                                     |  4%|
 | Dacon         | Agricultural product price prediction                                                 | 10%       |
 | Big Contest   | Deriving the optimal price prediction model by predicting the import price of seafood |   - - -   |
-| Kakao Tourism | Created an application that predicts congestion                                       |        |
+| Kakao Tourism | Created an application that predicts congestion                                       | excellence prize      |
