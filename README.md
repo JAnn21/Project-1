@@ -7,7 +7,7 @@
 | Dacon         | Development of gas supply demand forecasting model                                    |  |
 | Medical image Ai Challenge 2021 |  |        |
 | Dacon | Classification of crop diseases |    10%    |
-| SEOUL BIG DATA CAMPUS      |Development of an ai system that can find out where welfare facilities are lacking in an aging society and judge the death of the elderly or abuse of the elderly.                                                     |        |
+| SEOUL BIG DATA CAMPUS      |Development of an ai system that can find out where welfare facilities are lacking in an aging society and judge the death of the elderly or abuse of the elderly.                                                     | - - -       |
 | COMPAS   |Searching for public security problems in Suwon and seeking solutions.                                                |   - - -  |
 | Dacon         | 2021 Traffic Signal Motion Recognition AI Contest                                     |  4%|
 | Dacon         | Agricultural product price prediction                                                 | 10%       |
