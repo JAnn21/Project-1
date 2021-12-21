@@ -4,7 +4,6 @@
 |:-------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------:|
 | Kaggle                       |   Sartorius - Cell Instance Segmentation                                                    |                       |
 | Kaggle                       |   TensorFlow - Help Protect the Great Barrier Reef                                                   |                       |
-| Dacon                       | Growth Period Prediction Contest.                                                     |                       |
 | ADAI 2021                       | Development of object recognition algorithm to prevent possible risks and accidents during autonomous driving.                                                     |                       |
 | A.I.D.D2021                     | Diabetes Prediction.                                                                                                                                                | Advance to the finals |
 | Dacon                           | Development of gas supply demand forecasting model.                                                                                                                 |                      |
